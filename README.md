@@ -31,11 +31,6 @@
 ![Nessus](https://img.shields.io/badge/Nessus-29ABE2?logo=tenable&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white)
-
-#### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-Security-critical)
 ![VPN](https://img.shields.io/badge/IPSec%2FSSL%20VPN-blue)
 ![DLP](https://img.shields.io/badge/DLP%20System-orange)
@@ -46,7 +41,6 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 #### 🧩 Operating Systems
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
