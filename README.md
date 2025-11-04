@@ -15,7 +15,6 @@
 - 🥇 Recognized by **NASA’s Hall of Fame** on Bugcrowd for impactful security research  
 - 💻 Passionate about **penetration testing**, **SIEM analysis**, and **incident response**  
 - 🧩 Creator of **CyberSecLab**, a CTF-style challenge simulating real-world vulnerabilities  
-- ☁️ Exploring **Cloud Security (AWS, Azure, GCP)** and **Threat Hunting**  
 - ⚙️ Automating security tasks using **Python** and **Bash**  
 - 🎯 Always learning, building, and breaking — to make systems safer  
 
@@ -33,7 +32,7 @@
 ![ELK](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-Security-critical)
 ![VPN](https://img.shields.io/badge/IPSec%2FSSL%20VPN-blue)
-![DLP](https://img.shields.io/badge/DLP%20System-orange)
+
 
 #### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -46,7 +45,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
 ---
 
